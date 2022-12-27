@@ -1,0 +1,22 @@
+html,
+body {
+  font-family: 'Roboto', sans-serif;
+  height: 100%;
+  margin: 0;
+  background-color: #ebeef4;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.visited-link {
+  color: #000000;
+}
