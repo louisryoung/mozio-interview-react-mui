@@ -62,12 +62,6 @@ There are some examples of unit tests using Jest and e2e tests using Cypress.
 ## Getting Started
 
 ### Installation
-
-1. Clone the repo
-   ```
-   git clone https://github.com/hotakanagamine/mozio-interview
-   ```
-2. Install NPM packages
    ```
    npm install
    ```
